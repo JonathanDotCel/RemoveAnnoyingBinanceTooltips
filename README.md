@@ -1,5 +1,5 @@
 # RemoveAnnoyingBinanceTooltips
- Removes the annoying OnHover tooltips which block your input when using
+ Removes the annoying OnHover tooltips which block your input when placing orders on the Binance exchange.
 
 Please see the header in RemoveAnnoyingBinanceTooltips.js for instructions.
 
