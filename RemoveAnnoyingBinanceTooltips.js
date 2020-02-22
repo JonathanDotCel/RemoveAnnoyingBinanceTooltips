@@ -9,7 +9,7 @@
 // @namespace    https://www.binance.com/
 // @version      0.1
 // @description  Disables the annoying OnHover tooltips on binance.
-// @author       Jonathan Cel
+// @author       Jonathan Cel - https://github.com/JonathanDotCel/
 // @match        https://www.binance.com/*
 // @grant        none
 //
