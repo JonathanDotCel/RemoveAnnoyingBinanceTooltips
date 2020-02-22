@@ -34,7 +34,7 @@ $(document).ready(function() {
 
     function AttemptClear(){
 
-        // These aren't
+        // Look for any of these that have titles.
         var tooltips = $(".bnc-tooltip");
 
         // If we didn't find any tooltips then wait it out.
